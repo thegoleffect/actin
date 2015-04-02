@@ -1,17 +1,16 @@
 {
   "name": "actin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "auto loading controllers for hapi projects",
   "main": "index.js",
   "scripts": {
-    "test": "make test"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/thegoleffect/actin.git"
   },
   "author": "Van Nguyen <thegoleffect@gmail.com>",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/thegoleffect/actin/issues"
   },
